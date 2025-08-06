@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 .......
+=======
+hello world!!
+>>>>>>> 8b6a814 (adding abc.txt)
